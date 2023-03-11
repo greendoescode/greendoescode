@@ -4,7 +4,7 @@ My name is Green! I love anything hardware based, and *most* things software (ps
 I love backend, because front end has never been my strong point and I'll try anything!
 I am currently working on two things:
 
- - Apolga.com - privacy based chatting written in.. Python?!?!?!!?
+ - [Apolga](https://apolga.com) - privacy based chatting written in.. Python?!?!?!!?
  - Blender stuff - Can't get into this but I'n doing it !!!
  
 ## 💻 Tech Stack
