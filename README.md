@@ -1,11 +1,10 @@
 ### Hi there 👋
 
 My name is Green! I love anything hardware based, and *most* things software (psst, not java).
-I love backend, because front end has never been my strong point and I'll try anything!
-I am currently working on two things:
+I love backend, because front end has never been my strong point (People actually see your hideous code!!)
+I am currently working on:
 
- - [Apolga](https://apolga.com) - privacy based chatting written in.. Python?!?!?!!?
- - Blender stuff - Can't get into this but I'n doing it !!!
+ - [VLC-RPC](https://github.com/greendiscord/vlc-rpc) - VLC-RPC, Rich presence to show what your listening to on vlc with album art!
  
 ## 💻 Tech Stack
 ![html](https://img.shields.io/badge/HTML-E34F26.svg?logo=HTML5&style=flat&logoColor=white)
@@ -13,7 +12,7 @@ I am currently working on two things:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=JavaScript&style=flat&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?logo=nginx&style=flat&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-F9DC3E.svg?logo=Python&style=flat)
-![Swift](https://img.shields.io/badge/Swift-F05138.svg?logo=Swift&style=flat&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138.svg?logo=Swift&style=flat&logoColor=white) - Sorta
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F.svg?logo=node.js&style=flat&logoColor=white)
 
 ## 🖥️ Computer
