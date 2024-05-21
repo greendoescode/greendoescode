@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-My name is Green! I love anything hardware based, and *most* things software (psst, not java).
-I love backend, because front end has never been my strong point (People actually see your hideous code!!)
+My name is Green! I love anything hardware-based, and *most* things software (psst, not Java).
+I love backend because the front end has never been my strong point (People see your code!)
 I am currently working on:
 
- - [VLC-RPC](https://github.com/greendiscord/vlc-rpc) - VLC-RPC, Rich presence to show what your listening to on vlc with album art!
+ - [VLC-RPC](https://github.com/greendoescode/vlc-rpc) - VLC-RPC, Rich presence to show what you're listening to on VLC with album art!
  
 ## 💻 Tech Stack
 ![html](https://img.shields.io/badge/HTML-E34F26.svg?logo=HTML5&style=flat&logoColor=white)
