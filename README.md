@@ -20,6 +20,6 @@ I am currently working on:
 ![Windows](https://img.shields.io/badge/-Windows-0078D6.svg?logo=windows&style=flat)
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GreenDiscord&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br>
-![](https://github-readme-stats.vercel.app/api?username=GreenDiscord&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false)<br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=GreenDiscord&theme=vue-dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=greendoescode&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br>
+![](https://github-readme-stats.vercel.app/api?username=greendoescode&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false)<br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=greendoescode&theme=vue-dark&hide_border=false)
