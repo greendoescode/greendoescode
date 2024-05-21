@@ -12,7 +12,6 @@ I am currently working on:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=JavaScript&style=flat&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?logo=nginx&style=flat&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-F9DC3E.svg?logo=Python&style=flat)
-![Swift](https://img.shields.io/badge/Swift-F05138.svg?logo=Swift&style=flat&logoColor=white) - Sorta
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F.svg?logo=node.js&style=flat&logoColor=white)
 [![Svelte](https://img.shields.io/badge/Svelte-%23f1413d.svg?logo=svelte&logoColor=white)](#)
 [![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)](#)
