@@ -14,6 +14,8 @@ I am currently working on:
 ![Python](https://img.shields.io/badge/-Python-F9DC3E.svg?logo=Python&style=flat)
 ![Swift](https://img.shields.io/badge/Swift-F05138.svg?logo=Swift&style=flat&logoColor=white) - Sorta
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F.svg?logo=node.js&style=flat&logoColor=white)
+[![Svelte](https://img.shields.io/badge/Svelte-%23f1413d.svg?logo=svelte&logoColor=white)](#)
+[![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)](#)
 
 ## 🖥️ Computer
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-6F52B5.svg?logo=ubuntu&style=flat)
