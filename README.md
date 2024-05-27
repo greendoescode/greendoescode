@@ -22,6 +22,6 @@ I'm Green! I am passionate about hardware-based projects and enjoy tinkering wit
 
 ## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=greendoescode&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=greendoescode&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=greendoescode&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=greendoescode&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=greendoescode&theme=vue-dark&hide_border=false)
