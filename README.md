@@ -3,6 +3,7 @@
 I'm Green! I am passionate about hardware-based projects and enjoy tinkering with software (*psst* except Java). Currently, I'm focused on:
 
 - [VLC-RPC](https://github.com/greendoescode/vlc-rpc) - VLC-RPC adds rich presence to show what you're listening to on VLC with album art!
+- [Volaris](https://github.com/volar-is) -  Volaris is an encryption tool designed to prioritize privacy and security, written completely in rust.
 
 ## 💻 Tech Stack
 
