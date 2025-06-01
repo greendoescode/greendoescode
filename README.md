@@ -8,9 +8,7 @@ I'm Green! I am passionate about hardware-based projects and enjoy tinkering wit
 ## 💻 Tech Stack
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26.svg?logo=HTML5&style=flat&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-365dbf.svg?logo=C%2B%2B&style=flat)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=JavaScript&style=flat&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?logo=nginx&style=flat&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-F9DC3E.svg?logo=Python&style=flat)
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F.svg?logo=node.js&style=flat&logoColor=white)
 ![Svelte](https://img.shields.io/badge/Svelte-%23f1413d.svg?logo=svelte&logoColor=white)
